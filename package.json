@@ -1,7 +1,7 @@
 {
   "author": {
-    "email": "this.eduardo@gmail.com",
-    "name": "Eduardo Gómez",
+    "email": "admin@kindnessforbusiness.com",
+    "name": "Kindness For Business",
     "url": "https://eduardogomez.io"
   },
   "config": {
@@ -27,8 +27,7 @@
       }
     }
   },
-  "demo": "https://liebling.eduardogomez.io",
-  "description": "Beautiful and clean theme that is easy and comfortable to use.",
+  "description": "K4B Theme",
   "engines": {
     "ghost": ">=3.0.0",
     "ghost-api": "v3"

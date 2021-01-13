@@ -25,14 +25,13 @@ into the {body} of the default.hbs template --}}
 <main class="main-wrap">
   {{#post}}
     {{!-- Inject styles of the hero image to make it responsive --}}
-    {{> hero background=feature_image}}
     </section>
   {{/post}}
   
   <article>
     <div class="l-content in-post">
       {{!-- Everything inside the #post tags pulls data from the post --}}
-      {{#post}}
+      {{#post}} 
         <div class="l-wrapper in-post {{#unless feature_image}}no-image{{/unless}} js-aos-wrapper" data-aos="fade-up"
           data-aos-delay="300">
           <div
