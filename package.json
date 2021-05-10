@@ -1,4 +1,7 @@
 {
+  "license": "MIT",
+  "name": "k4btheme",
+  "version": "1.0.3",
   "author": {
     "email": "admin@kindnessforbusiness.com",
     "name": "Kindness For Business"
@@ -45,7 +48,5 @@
     "ghost",
     "theme",
     "ghost-theme"
-  ],
-  "license": "MIT",
-  "version": "0.0.1"
+  ]
 }
